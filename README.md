@@ -25,7 +25,7 @@ In this assignment you will start with the github classroom link, create your ow
 	- Add python code that calculates the square root of 4
 6. Commit changes to repository, remember to add a useful commit message.
 7. Modify Jupyter notebook within project.
-	- Add python print statement that outputs "My name is:" + <your name>
+	- Add python print statement that outputs "My name is:" + &lt;your name&gt;
 	- Add python code that calculates 1 minus 1
 	- Add python code that calculates the square root of 16
 8. Commit changes to repository, remember to add a useful commit message.
